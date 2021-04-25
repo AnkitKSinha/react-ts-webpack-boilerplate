@@ -1,4 +1,4 @@
-# Build a React app from scratch using Webpack and TypeScript
+# React-TypeScript-Webpack boilerplate
 
 ## Get started
 Being a boilerplate, the easiest way is to clone/fork and get started with your job. 
