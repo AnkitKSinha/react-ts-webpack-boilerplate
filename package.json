@@ -1,0 +1,40 @@
+{
+  "name": "react-ts-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitKSinha/react-ts-webpack-boilerplate.git"
+  },
+  "author": "AnkitKSinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitKSinha/react-ts-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/AnkitKSinha/react-ts-webpack-boilerplate#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.3",
+    "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "source-map-loader": "^2.0.1",
+    "style-loader": "^2.0.0",
+    "ts-loader": "^9.1.1",
+    "typescript": "^4.2.4",
+    "webpack": "^5.35.1",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "html-webpack-plugin": "^5.3.1"
+  }
+}
